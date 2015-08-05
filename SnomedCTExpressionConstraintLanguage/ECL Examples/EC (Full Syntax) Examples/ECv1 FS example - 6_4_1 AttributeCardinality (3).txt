@@ -1,0 +1,2 @@
+descendantOf 373873005 |pharmaceutical / biologic product|:
+[0 to 1] 127489000 |has active ingredient| = descendantOf 105590001 |substance|

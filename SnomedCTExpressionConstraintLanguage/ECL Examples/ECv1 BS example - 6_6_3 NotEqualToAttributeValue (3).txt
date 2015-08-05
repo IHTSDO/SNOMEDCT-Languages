@@ -1,0 +1,2 @@
+< 404684003 |clinical finding|: 
+[0..0] 116676008 |associated morphology| != << 26036001 |obstruction|

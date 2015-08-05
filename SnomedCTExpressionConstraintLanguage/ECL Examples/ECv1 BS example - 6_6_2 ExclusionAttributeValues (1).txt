@@ -1,0 +1,2 @@
+< 404684003 |clinical finding|: 116676008 |associated morphology| =
+((<< 56208002 |ulcer| AND << 50960005 |hemorrhage|) MINUS << 26036001 |obstruction|)

@@ -1,0 +1,2 @@
+(< 19829001|disorder of lung| MINUS ^ 700043003 |example problem list concepts reference set|) MINUS
+^ 450976002|disorders and diseases reference set for GP/FP reason for encounter|

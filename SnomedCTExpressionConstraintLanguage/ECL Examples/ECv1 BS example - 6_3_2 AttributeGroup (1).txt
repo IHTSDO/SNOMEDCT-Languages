@@ -1,0 +1,5 @@
+< 404684003 |clinical finding|:
+{ 363698007 |finding site| = << 39057004 |pulmonary valve structure|,
+  116676008 |associated morphology| = << 415582006 |stenosis|},
+{ 363698007 |finding site| = << 53085002 |right ventricular structure|, 
+  116676008 |associated morphology| = << 56246009 |hypertrophy|}

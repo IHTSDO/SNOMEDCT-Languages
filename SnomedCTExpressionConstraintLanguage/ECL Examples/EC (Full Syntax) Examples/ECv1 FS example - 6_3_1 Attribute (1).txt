@@ -1,0 +1,2 @@
+descendantOf 19829001 |disorder of lung| : 
+116676008 |associated morphology| = 79654002 |edema|

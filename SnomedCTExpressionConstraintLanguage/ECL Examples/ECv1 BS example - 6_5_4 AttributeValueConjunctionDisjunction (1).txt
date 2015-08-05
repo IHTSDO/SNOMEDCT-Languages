@@ -1,0 +1,2 @@
+^ 450990004 |adverse drug reactions reference set for GP/FP health issue|: 246075003 |causative agent| =
+(< 373873005 |pharmaceutical / biologic product| OR < 105590001 |substance|)

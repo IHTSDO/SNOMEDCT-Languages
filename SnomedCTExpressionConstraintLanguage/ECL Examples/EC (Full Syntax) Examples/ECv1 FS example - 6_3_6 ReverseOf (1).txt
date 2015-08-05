@@ -1,0 +1,2 @@
+descendantOf 105590001 |substance|: 
+reverseOf 127489000 |has active ingredient| = 111115 |TRIPHASIL tablet|

@@ -1,0 +1,2 @@
+descendantOf 404684003 |clinical finding|:
+[1 to 1] 363698007 |finding site| = descendantOf 91723000 |anatomical structure|

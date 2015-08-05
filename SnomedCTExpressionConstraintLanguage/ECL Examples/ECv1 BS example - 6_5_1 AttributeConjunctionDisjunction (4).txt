@@ -1,0 +1,4 @@
+< 404684003 |clinical finding| : 
+( 363698007 |finding site| = << 39057004 |pulmonary valve structure| AND 
+116676008 |associated morphology| = << 415582006 |stenosis|) OR
+42752001 |due to| = << 445238008|malignant carcinoid tumor|

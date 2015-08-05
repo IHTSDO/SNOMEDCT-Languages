@@ -1,0 +1,1 @@
+descendantOf 404684003 |clinical finding|: 116676008 |associated morphology| = ANY
