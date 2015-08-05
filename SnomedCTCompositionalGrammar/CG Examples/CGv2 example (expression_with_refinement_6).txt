@@ -1,0 +1,2 @@
+119189000 |ulna part| + 312845000 |epiphysis of upper limb|:
+272741003 |laterality| = 7771000 |left|

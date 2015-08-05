@@ -1,0 +1,3 @@
+373873005 |pharmaceutical / biologic product|:
+411116001 |has dose form| = 
+(421720008 |spray dose form| + 7946007 |drug suspension|)

@@ -1,0 +1,2 @@
+182201002 |hip joint|:
+272741003 |laterality| = 24028007 |right|

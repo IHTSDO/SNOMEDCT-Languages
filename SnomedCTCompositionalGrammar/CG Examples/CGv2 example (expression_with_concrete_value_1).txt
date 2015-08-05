@@ -1,0 +1,6 @@
+373873005 |pharmaceutical / biologic product|:
+411116001 |has dose form| = 385049006 |capsule|,
+111115 |active ingredient count| = #1,
+	{127489000 |has active ingredient| = 96068000 |amoxicillin trihydrate|,
+	  111115 |has reference basis of strength| = 372687004 |amoxicillin|,
+  111115 |strength magnitude equal to| = #500,  111115 |strength unit| = 258684004 |mg|}

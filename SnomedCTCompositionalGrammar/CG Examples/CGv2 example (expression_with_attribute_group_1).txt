@@ -1,0 +1,5 @@
+71388002 |procedure|:
+{ 260686004 |method| = 129304002 |excision - action|,
+405813007 |procedure site - direct| = 15497006 |ovarian structure|}
+{ 260686004 |method| = 129304002 |excision - action|,
+405813007 |procedure site - direct| = 31435000 |fallopian tube structure|}

@@ -1,0 +1,3 @@
+===  46866001 |fracture of lower limb| + 428881005 |injury of tibia|:
+116676008 |associated morphology| = 72704001 |fracture|,
+363698007 |finding site| = 12611008 |bone structure of tibia|

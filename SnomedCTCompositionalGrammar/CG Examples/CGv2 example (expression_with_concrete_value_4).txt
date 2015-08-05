@@ -1,0 +1,11 @@
+373873005 |pharmaceutical / biologic product|:
+411116001 |has dose form| = 385218009 |injection|,
+111115 |active ingredient count| = #2,
+		{ 127489000 |has active ingredient| = 428126001 |diphtheria toxoid|,
+		  111115 |has reference basis of strength | = 428126001 |diphtheria toxoid|,
+  111115 |strength magnitude minimum| = #4,
+		  111115 |strength unit| = 259002007 |IU/mL|} 
+		{ 127489000 |has active ingredient| = 412375000 |tetanus toxoid|,
+		  111115 |has reference basis of strength| = 412375000 |tetanus toxoid|,
+  111115 |strength magnitude equal to| = #40,
+		  111115 |strength unit| = 259002007 |IU/mL|}

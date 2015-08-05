@@ -1,0 +1,6 @@
+373873005 |pharmaceutical / biologic product|:
+411116001 |has dose form| = 385023001 |oral solution|,
+111115 |active ingredient count| = #1,
+	{127489000 |has active ingredient| = 372897005 |albuterol|,
+	  111115 |has reference basis of strength| = 372897005 |albuterol|,
+  111115 |strength magnitude equal to | = #0.083,  111115 |strength unit| = 118582008 |%|}

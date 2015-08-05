@@ -1,0 +1,4 @@
+71388002 |procedure|:
+405815000|procedure device| = 122456005 |laser device|,
+260686004 |method| = 129304002 |excision - action|,
+405813007 |procedure site - direct| = 15497006 |ovarian structure|
