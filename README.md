@@ -1,6 +1,6 @@
 ## SNOMED CT Computable Languages
 
-This repository contains the formal syntax and valid example files for each computable language in the SNOMED CT Family of Languages.
+This repository contains the formal syntax, example parser, and valid example files for each computable language in the SNOMED CT Family of Languages.
 
 The SNOMED CT Family of Languages currently includes:
 * **SNOMED CT Compositional Grammar** - used to represent SNOMED CT expressions. The SNOMED CT Compositional Grammar Specification and Guide is available at [www.snomed.org/compgrammar]([http://www.snomed.org/compgrammar]).
@@ -13,7 +13,9 @@ It is anticipated that the following languages will be added to this repository 
 The folders are organized as follows:
 * *SnomedCTCompositionalGrammar* - contains files relating to SNOMED CT Compositional Grammar
   * *CG Examples* - contains a set of valid example files for SNOMED CT Compositional Grammar
+  * *CG Parser* - contains an example parser for SNOMED CT Compositional Grammar
   * *CG Syntax* - contains the ABNF syntax for SNOMED CT  Compositional Grammar
 * *SnomedCTExpressionConstraintLanguage* - contains files relating to the SNOMED CT Expression Constraint Language
   * *ECL Examples* - contains a set of valid example files for the SNOMED CT  Expression Constraint Language
+  * *ECL Parser* - contains an example parser for the brief (normative) and full (informative) ABNF syntaxes of the SNOMED CT Expression Constraint Language
   * *ECL Syntax* - contains the brief (normative) and full (informative) ABNF syntaxes for the SNOMED CT  Expression Constraint Language
