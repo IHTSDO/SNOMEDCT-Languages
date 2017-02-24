@@ -1,0 +1,3 @@
+< 404684003 |clinical finding|: 
+116676008 |associated morphology| = << 55641003 |infarct| OR 
+42752001 |due to| = << 22298006 |myocardial infarction|

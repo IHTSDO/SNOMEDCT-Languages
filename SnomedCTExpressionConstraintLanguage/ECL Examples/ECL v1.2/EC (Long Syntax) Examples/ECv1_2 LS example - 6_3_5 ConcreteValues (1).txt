@@ -1,0 +1,5 @@
+descendantOf 27658006 |amoxicillin |:
+411116001 |has dose form| = descendantOrSelfOf 385049006 |capsule|,
+{ 111115 |has basis of strength| = ( 111115 |amoxicillin only|:
+   111115 |strength magnitude| >= #500,
+   111115 |strength unit| = 258684004 |mg|)}
