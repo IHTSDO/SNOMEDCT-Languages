@@ -1,0 +1,3 @@
+   (<< 17636008 |Specimen collection| : 
+       424226004 |Using device|  = <<  19923001 |Catheter| ) 
+         .  363701004 |Direct substance|

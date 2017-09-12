@@ -1,0 +1,1 @@
+descendantOrSelfOf 19829001 |disorder of lung| MINUS descendantOrSelfOf 301867009 |edema of trunk|

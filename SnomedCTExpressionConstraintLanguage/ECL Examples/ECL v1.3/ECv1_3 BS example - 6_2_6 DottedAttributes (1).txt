@@ -1,0 +1,1 @@
+<  91723000 |Anatomical structure|  AND (<  125605004 |Fracture of bone| . 363698007 |Finding site| )

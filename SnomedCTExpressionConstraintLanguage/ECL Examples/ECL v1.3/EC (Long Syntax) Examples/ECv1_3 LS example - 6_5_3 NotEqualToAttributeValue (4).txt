@@ -1,0 +1,3 @@
+descendantOf 404684003 |clinical finding|: 
+[0 to 0] 116676008 |associated morphology| NOT = descendantOrSelfOf 26036001 |obstruction| AND
+[1 to MANY] 116676008 |associated morphology| = descendantOrSelfOf 26036001 |obstruction|

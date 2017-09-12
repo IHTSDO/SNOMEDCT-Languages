@@ -1,0 +1,3 @@
+descendantOf 404684003 |clinical finding|:
+363698007 |finding site| = descendantOrSelfOf 39057004 |pulmonary valve structure| AND
+116676008 |associated morphology| = descendantOrSelfOf 415582006 |stenosis|
