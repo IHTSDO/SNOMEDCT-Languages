@@ -1,0 +1,2 @@
+   [[+tok (<<< ===)]]  281647001 |Adverse reaction (disorder)| :
+       246075003 |Causative agent (attribute)|  = [[+id]]

@@ -1,0 +1,3 @@
+  323510009 |Amoxycillin 500mg capsule|  : 
+      {  749999999108 |Has pack size magnitude|   = [[+int (#20..)]], 
+         759999999106 |Has pack size units|   =   428641000 |Capsule|  }
