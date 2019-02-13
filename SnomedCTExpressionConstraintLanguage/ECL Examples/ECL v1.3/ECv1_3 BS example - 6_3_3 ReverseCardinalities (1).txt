@@ -1,0 +1,1 @@
+< 105590001 |Substance| : [3..3] R 127489000 |Has active ingredient| = *
