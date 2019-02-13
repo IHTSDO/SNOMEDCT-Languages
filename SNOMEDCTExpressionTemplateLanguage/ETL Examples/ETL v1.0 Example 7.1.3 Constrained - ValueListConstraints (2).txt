@@ -1,0 +1,1 @@
+322236009 |Paracetamol 500mg tablet|  :  209999999104 |Has trade name|  = [[+str ("PANADOL" "TYLENOL" "HERRON")]]

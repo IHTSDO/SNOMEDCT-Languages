@@ -1,0 +1,7 @@
+   [[1..1]] [[+id (<< 413350009 |Finding with explicit context|) @Condition]]:
+      [[ 1..2 @AFgroup ]] {[[1..1]] 246090004 |Associated finding| = ([[+id (<< 404684003 |Clinical finding|) @Finding]]:
+                   [[0..1 @SSgroup]] { [[0..1]] 246112005 |Severity| = [[+id (< 272141005 |Severities|) @Severity]],
+                                      [[0..1]] 363698007 |Finding site| = [[+id (< 91723000 |Anatomical structure|) @Site]]}),
+                           [[1..1]] 408732007 |Subject relationship context| = [[+id (< 444148008 |Person in family of subject|) @Relationship]],
+                           [[1..1]] 408731000 |Temporal context|  = [[+id (< 410510008 |Temporal context value|) @Time]],
+                           [[1..1]] 408729009 |Finding context|  = [[+id (< 410514004 |Finding context value|) @Context]] }

@@ -1,0 +1,3 @@
+   [[+ (< 71388002 |Procedure| ) @Procedure]] :
+      { 405813007 |Procedure site - direct|  = [[+ (< 91723000 |Anatomical structure| ) @BodySite]],
+        260686004 |Method|  = [[+ (< 129264002 |Action (qualifier value)| ) @Method]]}

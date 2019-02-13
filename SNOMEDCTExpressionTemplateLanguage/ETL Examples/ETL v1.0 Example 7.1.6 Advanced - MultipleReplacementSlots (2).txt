@@ -1,0 +1,5 @@
+    243796009 |Situation with explicit context| :
+      {  246090004 |Associated finding|  = [[+id (<  404684003 |Clinical finding| ) @Finding]],
+         408731000 |Temporal context|  =  410511007 |Current or past (actual)| ,
+         408729009 |Finding context|  =  410515003 |Known present| ,
+         408732007 |Subject relationship context|   =  [[+id (<<  444148008 |Person in family of subject| ) @Relationship]] }

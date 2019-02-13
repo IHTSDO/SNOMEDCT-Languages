@@ -1,0 +1,3 @@
+    71388002 |Procedure|  : [[1..1 @mpGroup]]
+      { 260686004 |Method|  =  312251004 |Computed tomography imaging action| ,
+          405813007 |Procedure site - Direct|  = [[+id (<< 442083009 |Anatomical or acquired body structure| ) @site]] }

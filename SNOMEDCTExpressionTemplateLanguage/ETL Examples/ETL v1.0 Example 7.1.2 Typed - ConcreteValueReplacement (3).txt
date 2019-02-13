@@ -1,0 +1,3 @@
+    326645001 |Chlorhexidine gluconate 0.02% irrigation solution| : 
+      { 749999999108 |Has pack size magnitude|  = [[+dec]],
+        759999999106 |Has pack size units|  =  258770004 |Liter| }

@@ -1,0 +1,3 @@
+404684003 |Finding| : {
+       363698007 |Finding site|  = [[+ @site]],
+       363714003 |Interprets|  = ( 363787002 |Observable entity| :  704319004 |Inheres in|  = [[+ @site]])}
