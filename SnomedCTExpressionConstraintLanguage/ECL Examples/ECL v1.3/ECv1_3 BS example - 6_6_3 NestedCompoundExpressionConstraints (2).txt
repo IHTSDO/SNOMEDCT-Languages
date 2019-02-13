@@ -1,0 +1,2 @@
+ (<   404684003 |Clinical finding|  :   363698007 |Finding site|   = <<   39057004 |Pulmonary valve structure|  ) 
+    AND (<   64572001 |Disease|  :   116676008 |Associated morphology|   = <<   415582006 |Stenosis|  )

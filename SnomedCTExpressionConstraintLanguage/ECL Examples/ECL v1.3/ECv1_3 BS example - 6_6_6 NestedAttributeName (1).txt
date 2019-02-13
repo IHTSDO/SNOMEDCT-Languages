@@ -1,0 +1,2 @@
+ <<  125605004 |Fracture of bone|  :
+ [0..0] ((<<  410662002 |Concept model attribute|  MINUS  363698007 |Finding site| ) MINUS  16676008 |Associated morphology|  ) = *

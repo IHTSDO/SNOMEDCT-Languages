@@ -1,0 +1,2 @@
+< 105590001 |substance|: 
+R 127489000 |has active ingredient| = 111115 |TRIPHASIL tablet|

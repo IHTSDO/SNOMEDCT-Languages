@@ -1,0 +1,2 @@
+(descendantOrSelfOf 404684003 |Clinical finding (finding)| OR descendantOrSelfOf 272379006 |Event (event)|  ): 
+  255234002 |After|  = descendantOrSelfOf 71388002 |Procedure (procedure)|

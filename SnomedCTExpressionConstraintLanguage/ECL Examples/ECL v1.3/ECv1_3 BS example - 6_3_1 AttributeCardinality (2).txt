@@ -1,0 +1,2 @@
+< 373873005 |pharmaceutical / biologic product|:
+[1..1] 127489000 |has active ingredient| = < 105590001 |substance|
