@@ -11,7 +11,7 @@ It is anticipated that the following languages will be added to this repository 
 
 * **SNOMED CT Query Language** - used to represent computable queries over SNOMED CT content
 * **SNOMED CT Expression Constraint Template Syntax** - allows slots to be added to expression constraints, that can be filled with specific values at a later time
-* **SNOMED CT Query Template Syntax** – allows slots to be added to SNOMED CT queries, that can be filled with specific values at a later time.
+* **SNOMED CT Query Template Syntax** – allows slots to be added to SNOMED CT queries, that can be filled with specific values at a later time
 
 The folders are organized as follows:
 * *SnomedCTCompositionalGrammar* - contains files relating to SNOMED CT Compositional Grammar
