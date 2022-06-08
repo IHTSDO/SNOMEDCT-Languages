@@ -1,3 +1,0 @@
-descendantOrSelfOf 404684003 |clinical finding|:
-descendantOrSelfOf 47429007 |associated with| = 
-descendantOrSelfOf 267038008 |edema|

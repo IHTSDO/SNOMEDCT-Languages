@@ -1,2 +1,0 @@
- (<<  404684003 |Clinical finding (finding)|  OR <<  272379006 |Event (event)|  ): 
-  255234002 |After|  = <<  71388002 |Procedure (procedure)|

@@ -1,3 +1,0 @@
-(descendantOf 404684003 |Clinical finding|  :
-        363698007 |Finding site| = descendantOrSelfOf 39057004 |Pulmonary valve structure|  ) 
-    AND memberOf 700043003 |Example problem list concepts reference set|

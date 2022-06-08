@@ -1,2 +1,0 @@
- (descendantOf 404684003 |Clinical finding|  :   363698007 |Finding site|   = descendantOrSelfOf   39057004 |Pulmonary valve structure|  ) 
-    AND (descendantOf  64572001 |Disease|  :   116676008 |Associated morphology|   = descendantOrSelfOf 415582006 |Stenosis|  )

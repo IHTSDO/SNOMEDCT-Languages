@@ -1,3 +1,0 @@
-descendantOrSelfOf 404684003 |clinical finding|:
-ancestorOrSelfOf 246075003 |causative agent| = 
-descendantOrSelfOf 267038008 |edema|

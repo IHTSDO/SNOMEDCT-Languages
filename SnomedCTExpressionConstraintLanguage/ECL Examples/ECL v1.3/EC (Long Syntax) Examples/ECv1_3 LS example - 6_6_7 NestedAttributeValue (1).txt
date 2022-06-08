@@ -1,3 +1,0 @@
-descendantOf 404684003 |Clinical finding|  :
-  47429007 |Associated with|  = (descendantOf 404684003 |Clinical finding|  : 
-  116676008 |Associated morphology|  = descendantOrSelfOf 55641003 |Infarct|  )

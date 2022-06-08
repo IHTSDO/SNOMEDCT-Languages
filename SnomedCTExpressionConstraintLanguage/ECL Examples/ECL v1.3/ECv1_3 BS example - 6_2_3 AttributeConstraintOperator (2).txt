@@ -1,2 +1,0 @@
-<< 404684003 |clinical finding|:
->> 246075003 |causative agent| = << 267038008 |edema|

@@ -1,2 +1,0 @@
-<< 404684003 |clinical finding|:
-<< 47429007 |associated with| = << 267038008 |edema|
